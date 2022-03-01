@@ -1,5 +1,4 @@
-# My Personal Website
+# My Previous Personal Website
 
-#### Personal Website showcasing my experience, projects, skills, and interest.
-#### Constantly updating.
-#### View [here](https://youngjun-yoo16.github.io/).
+#### Previous Personal Website showcasing my experience, projects, skills, and interest.
+#### View [here](https://youngjun-yoo16.github.io/Old-Website/).
