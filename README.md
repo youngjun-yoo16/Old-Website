@@ -1,4 +1,4 @@
-# My Previous Personal Website
+# Previous Personal Website
 
 #### Previous personal website showcasing my experience, projects, skills, and interest.
 #### View [here](https://youngjun-yoo16.github.io/Old-Website/).
